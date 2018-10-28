@@ -8,6 +8,8 @@ import { ListPage } from '../pages/list/list';
 import { ContactPage} from '../pages/contact/contact';
 import { AboutPage} from '../pages/about/about';
 
+/**More tabs can be added to the app. This is a very basic and simple base for an application/1702341*/
+
 
 @Component({
   templateUrl: 'app.html'
