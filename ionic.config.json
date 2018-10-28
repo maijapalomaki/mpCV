@@ -1,0 +1,7 @@
+{
+  "name": "mpCV",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
